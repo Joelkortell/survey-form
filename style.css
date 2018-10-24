@@ -2,8 +2,8 @@
   background-color: rgb(241, 241, 241);
   display: flex;
   justify-content: center;
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 50px;
+  margin-left: 50px;
   margin-top: 60px;
   padding: 70px;
   border-radius: 12px;
@@ -25,8 +25,8 @@ p {
   background-color: rgb(241, 241, 241);
   display: flex;
   justify-content: center;
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 50px;
+  margin-left: 50px;
   margin-top: 40px;
   padding: 20px;
   border-radius: 12px;
@@ -38,8 +38,8 @@ p {
   background-color: rgb(241, 241, 241);
   display: flex;
   justify-content: center;
-  margin-right: 250px;
-  margin-left: 250px;
+  margin-right: 50px;
+  margin-left: 50px;
   margin-top: 40px;
   padding: 20px;
   border-radius: 12px;
